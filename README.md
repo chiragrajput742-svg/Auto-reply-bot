@@ -1,1 +1,1 @@
-# Auto-reply-bot
+![Logo](assets/logo.png)
