@@ -1,0 +1,15 @@
+{
+  "name": "Auto Reply Bot",
+  "description": "A simple auto reply Telegram bot",
+  "repository": "https://github.com/USERNAME/REPO-NAME",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot API Token",
+      "required": true
+    },
+    "API_KEY": {
+      "description": "Gemini API Key",
+      "required": true
+    }
+  }
+}
